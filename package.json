@@ -1,0 +1,22 @@
+{
+  "name": "demo-openshift",
+  "version": "1.0.0",
+  "description": "for demo",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JamesTurman/nodejs-demo.git"
+  },
+  "author": "James Turman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JamesTurman/nodejs-demo/issues"
+  },
+  "homepage": "https://github.com/JamesTurman/nodejs-demo#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
